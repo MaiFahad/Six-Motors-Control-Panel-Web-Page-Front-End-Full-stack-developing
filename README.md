@@ -5,4 +5,4 @@ style.css
 main.js
 index.php
 fetch-latest-record.php
-RECORDING Vd
+
